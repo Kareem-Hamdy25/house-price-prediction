@@ -186,8 +186,13 @@ represented in every fold.
 
 ## Screenshots
 
-*(add screenshots of the running app here — HomePage form, and the ResultPage
-showing a predicted price)*
+**Prediction form:**
+
+![Homepage form](docs/screenshots/homepage-form.png)
+
+**Prediction result:**
+
+![Result page](docs/screenshots/result-page.png)
 
 ## Running the Full Flow
 
