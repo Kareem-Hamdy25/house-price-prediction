@@ -103,6 +103,7 @@ uvicorn app.main:app --reload
 ```bash
 cd frontend
 npm install
+cp .env.example .env
 npm run dev
 # App runs at http://localhost:5173
 ```
